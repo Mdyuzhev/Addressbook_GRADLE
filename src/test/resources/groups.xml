@@ -1,0 +1,17 @@
+<list>
+  <group>
+    <name>GenTest 0</name>
+    <header>GenHeader 0</header>
+    <footer>GenFooter 0</footer>
+  </group>
+  <group>
+    <name>GenTest 1</name>
+    <header>GenHeader 1</header>
+    <footer>GenFooter 1</footer>
+  </group>
+  <group>
+    <name>GenTest 2</name>
+    <header>GenHeader 2</header>
+    <footer>GenFooter 2</footer>
+  </group>
+</list>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1541798410179" stop="1541798423538" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : addressbook.aft.gradle</name>
+    <title>Default Suite : addressbook.aft.gradle</title>
+    <test-cases>
+        <test-case start="1541798410433" stop="1541798414777" status="passed">
+            <name>testBadGroupCreation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="addressbook.aft.gradle"/>
+                <label name="testClass" value="addressbook.aft.gradle.tests.GroupCreationTests"/>
+                <label name="testMethod" value="testBadGroupCreation"/>
+                <label name="host" value="DESKTOP-LKV4RBT"/>
+                <label name="thread" value="6352@DESKTOP-LKV4RBT.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541798414862" stop="1541798417842" status="passed">
+            <name>testGroupCreation[GroupData{id='2147483647', name='GenTest 0'}]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="addressbook.aft.gradle"/>
+                <label name="testClass" value="addressbook.aft.gradle.tests.GroupCreationTests"/>
+                <label name="testMethod" value="testGroupCreation"/>
+                <label name="host" value="DESKTOP-LKV4RBT"/>
+                <label name="thread" value="6352@DESKTOP-LKV4RBT.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541798417862" stop="1541798420614" status="passed">
+            <name>testGroupCreation[GroupData{id='2147483647', name='GenTest 1'}]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="addressbook.aft.gradle"/>
+                <label name="testClass" value="addressbook.aft.gradle.tests.GroupCreationTests"/>
+                <label name="testMethod" value="testGroupCreation"/>
+                <label name="host" value="DESKTOP-LKV4RBT"/>
+                <label name="thread" value="6352@DESKTOP-LKV4RBT.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1541798420632" stop="1541798423509" status="passed">
+            <name>testGroupCreation[GroupData{id='2147483647', name='GenTest 2'}]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="addressbook.aft.gradle"/>
+                <label name="testClass" value="addressbook.aft.gradle.tests.GroupCreationTests"/>
+                <label name="testMethod" value="testGroupCreation"/>
+                <label name="host" value="DESKTOP-LKV4RBT"/>
+                <label name="thread" value="6352@DESKTOP-LKV4RBT.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

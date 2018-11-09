@@ -1,0 +1,1 @@
+{"uuid":"16dc84a7-1916-4a6f-baa8-4dbbe0b624df","name":"addressbook.aft.gradle.tests.TestBase.logTestStop","description":"","start":1541798555780,"stop":1541798555781,"children":["274353e1-19a6-4456-bffd-230f6ec3533a"],"afters":[{"name":"logTestStop","status":"passed","stage":"finished","description":"","start":1541798555780,"stop":1541798555781}]}

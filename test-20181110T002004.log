@@ -1,0 +1,8 @@
+5414 [main] INFO  a.aft.gradle.tests.TestBase - Start test testBadGroupCreation with parameters []
+9981 [main] INFO  a.aft.gradle.tests.TestBase - Stop test testBadGroupCreation
+10053 [main] INFO  a.aft.gradle.tests.TestBase - Start test testGroupCreation with parameters [GroupData{id='2147483647', name='GenTest 0'}]
+13044 [main] INFO  a.aft.gradle.tests.TestBase - Stop test testGroupCreation
+13051 [main] INFO  a.aft.gradle.tests.TestBase - Start test testGroupCreation with parameters [GroupData{id='2147483647', name='GenTest 1'}]
+15816 [main] INFO  a.aft.gradle.tests.TestBase - Stop test testGroupCreation
+15824 [main] INFO  a.aft.gradle.tests.TestBase - Start test testGroupCreation with parameters [GroupData{id='2147483647', name='GenTest 2'}]
+18711 [main] INFO  a.aft.gradle.tests.TestBase - Stop test testGroupCreation

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "GenTest 0",
+    "header": "GenHeader 0",
+    "footer": "GenFooter 0"
+  },
+  {
+    "name": "GenTest 1",
+    "header": "GenHeader 1",
+    "footer": "GenFooter 1"
+  },
+  {
+    "name": "GenTest 2",
+    "header": "GenHeader 2",
+    "footer": "GenFooter 2"
+  }
+]
