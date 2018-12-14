@@ -3,9 +3,7 @@
 <suite name="Suite1" verbose="1" >
     <test name="Groups" >
         <classes>
-            <class name="addressbook.aft.gradle.tests.GroupCreationTests"/>
             <class name="addressbook.aft.gradle.tests.GroupDeletionTests"/>
-            <class name="addressbook.aft.gradle.tests.GroupModificationTests"/>
         </classes>
     </test>
 </suite>
